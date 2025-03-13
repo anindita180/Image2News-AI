@@ -1,5 +1,3 @@
-# Image2News-AI
-An AI-powered pipeline that extracts text from images using OCR, summarizes it with NLP models, and generates AI-written news reports. Built with EasyOCR, T5-small, and GPT-based models.
 # Image-to-News-Report-Pipeline
 
 This project automates the process of generating news reports from images containing text. It utilizes Optical Character Recognition (OCR), text summarization, and a language model to extract text, create summaries, and generate news articles.
