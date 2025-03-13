@@ -11,21 +11,6 @@ The pipeline consists of three main steps:
 3.  **News Report Generation:** Generates news reports from the summaries.
 
 ## Project Structure
-Markdown
-
-# Image-to-News-Report-Pipeline
-
-This project automates the process of generating news reports from images containing text. It utilizes Optical Character Recognition (OCR), text summarization, and a language model to extract text, create summaries, and generate news articles.
-
-## Overview
-
-The pipeline consists of three main steps:
-
-1.  **OCR (Optical Character Recognition):** Extracts text from images.
-2.  **Summarization:** Summarizes the extracted text.
-3.  **News Report Generation:** Generates news reports from the summaries.
-
-## Project Structure
 
 ├── OCR_application.ipynb
 ├── data/
